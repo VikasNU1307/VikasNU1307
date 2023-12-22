@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikas Umbadwar</h1>
 <h3 align="center">🚀 Enthusiastic frontend developer and web development sorcerer from the vibrant landscapes of India, crafting digital realms with wizardry, and solving challenges with a passion for code! 💻✨ #CodePassionately #WebDevPro #ProblemSolver 🌐🇮🇳</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vikasumbadwar&label=Profile%20views&color=0e75b6&style=flat" alt="vikasumbadwar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VikasUmbadwar&label=Profile%20views&color=0e75b6&style=flat" alt="VikasUmbadwar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikasumbadwar" alt="vikasumbadwar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VikasUmbadwar" alt="VikasUmbadwar" /></a> </p>
 
 - 🔭 I’m currently working on **Smart Navigation With Crime Clustering and SOS Alert**
 
