@@ -24,12 +24,23 @@
   <hr/>
 
 <h2 align="center">Connect with me! 🤝 Let's build something amazing together. 🚀</h2>
+
 <p align="center">
-<a href="https://linkedin.com/in/vikas umbadwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas umbadwar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vikasumbadwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikasumbadwar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vikas_umbadwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikas_umbadwar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vikasumbadwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vikasumbadwar" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/vikasumbadwar" target="_blank" rel="noreferrer" title="LinkedIn Fast Render">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas umbadwar" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/vikasumbadwar" target="_blank" rel="noreferrer" title="HackerRank Fast Render">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikasumbadwar" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/vikas_umbadwar" target="_blank" rel="noreferrer" title="LeetCode Fast Render">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikas_umbadwar" height="30" width="40" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/vikasumbadwar" target="_blank" rel="noreferrer" title="Geeks for Geeks Fast Render">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vikasumbadwar" height="30" width="40" />
+  </a>
 </p>
+
+
 <hr/>
 
 
