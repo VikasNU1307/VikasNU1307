@@ -138,7 +138,7 @@
 <H3><b>My Contribution Status</b></H3>
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VikasUmbadwar&theme=algolia" alt="VikasUmbadwar" alt="VikasUmbadwar" /></p>
 
-![Snake animation](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikasUmbadwar&theme=dark&align=center&width=300)
+
 
 <a href="#" >
 <img alt="vikas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VikasUmbadwar&theme=tokyo-night&hide_border=true"/>
@@ -152,9 +152,9 @@
   <br>
     
     
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikasUmbadwar&show_icons=true&theme=dark)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/VikasUmbadwar/VikasUmbadwar/output/github-contribution-grid-snake-dark.svg" />
+<!-- ![Snake animation](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikasUmbadwar&theme=dark&align=center&width=300)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikasUmbadwar&show_icons=true&theme=dark) -->
 
 
   
