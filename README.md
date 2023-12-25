@@ -43,6 +43,15 @@
 
 <hr/>
 
+<div>
+<H3><b>Total Visitors</b></H3>
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=VikasUmbadwar&color=blueviolet&style=for-the-badge&label=Visitors+Here)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VikasUmbadwar&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" alt="VikasUmbadwar" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=VikasUmbadwar&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="500px" /></p>
+</div>
 
 
 
@@ -127,19 +136,8 @@
 </p>
  
 
-<div>
-<H3><b>Total Visitors</b></H3>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=VikasUmbadwar&color=blueviolet&style=for-the-badge&label=Visitors+Here)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VikasUmbadwar&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" alt="VikasUmbadwar" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=VikasUmbadwar&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="500px" /></p>
-</div>
-
-<br>
-<br>
-<br>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
