@@ -19,23 +19,18 @@
 ⚡ **Fun fact:** I enjoy cooking delicious food 😅 and have a passion for web development and problem-solving.
 
 </div>
+    
   <hr/>
-
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=VikasUmbadwar&label=Profile%20views&color=0e75b6&style=flat" alt="VikasUmbadwar" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VikasUmbadwar" alt="VikasUmbadwar" /></a> </p>
-<br>
-<br>
-<br>
+
+
+
+ <h2 align="center">Connect with me! 🤝 Let's build something amazing together. 🚀
   <hr/>
-
-
-
 <div align="center" > 
-  <h2 align="center">Connect with me! 🤝 Let's build something amazing together. 🚀</h2>
-<br>
 
+    
 [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
 [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
@@ -44,15 +39,8 @@
 <br>
 </div > 
 
+<p align="center">⚒️ Languages-Frameworks-Tools ⚒️</p>
 <hr/>
-
-
-
-
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
-  
  
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
