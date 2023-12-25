@@ -127,7 +127,7 @@
 </p>
  
 
-<hr/>
+
 <H3><b>Total Visitors</b></H3>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=VikasUmbadwar&color=blueviolet&style=for-the-badge&label=Visitors+Here)
@@ -136,12 +136,15 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=VikasUmbadwar&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="500px" /></p>
 
+<br>
+<br>
+<br>
 <H3><b>My Contribution Status</b></H3>
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VikasUmbadwar&theme=algolia" alt="VikasUmbadwar" alt="VikasUmbadwar" /></p>
 <a href="#">
-<img alt="Anil's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VikasUmbadwar&theme=tokyo-night&hide_border=true"/>
+<img alt="Vikas Umbadawar graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VikasUmbadwar&theme=tokyo-night&hide_border=true"/>
 </a>
-<hr>
+
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
