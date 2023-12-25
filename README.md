@@ -129,7 +129,7 @@
 
 <H3><b>Total Visitors</b></H3>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=Anonymous961&color=blueviolet&style=for-the-badge&label=Visitors+Here)
+![Visitor Badge](https://komarev.com/ghpvc/?username=VikasUmbadwar&color=blueviolet&style=for-the-badge&label=Visitors+Here)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VikasUmbadwar&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" alt="VikasUmbadwar" /></p>
 
@@ -138,14 +138,20 @@
 <H3><b>My Contribution Status</b></H3>
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VikasUmbadwar&theme=algolia" alt="VikasUmbadwar" alt="VikasUmbadwar" /></p>
 <a href="#">
-<img alt="Anil's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VikasUmbadwar&theme=tokyo-night&hide_border=true"/>
+<img alt="vikas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VikasUmbadwar&theme=tokyo-night&hide_border=true"/>
 </a>
 
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/VikasUmbadwar/VikasUmbadwar/output/github-contribution-grid-snake-dark.svg" />
+    
+    
+![Snake animation](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikasUmbadwar&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikasUmbadwar&show_icons=true&theme=dark)
+
+
   
   <br/><br/><br/>
 </div>
