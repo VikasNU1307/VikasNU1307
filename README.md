@@ -51,12 +51,11 @@
 
 
 
-###
-<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
   
-  <h3 align="left">Technologies:</h3>
+ 
 <p align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
@@ -131,8 +130,8 @@
 <hr>
 </p>
  
-
-<H3><b>Total Visitors</b></H3>
+<div>
+    <H3><b>Total Visitors</b></H3>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=VikasUmbadwar&color=blueviolet&style=for-the-badge&label=Visitors+Here)
 
@@ -140,10 +139,19 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VikasUmbadwar&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="450px" /></p>
 
-<H3><b>My Contribution Status</b></H3>
+</div>
+
+
+
+<div align = "center">
+    <H3><b>My Contribution Status</b></H3>
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VikasUmbadwar&theme=algolia" alt="VikasUmbadwar" alt="VikasUmbadwar" /></p>
+</div>
 
 
+[![An image of @vikas_nu1307's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikas_nu1307)][holopin]
+
+[holopin]:https://holopin.io/@vikas_nu1307
 
 <a href="#" >
 <img alt="vikas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VikasUmbadwar&theme=tokyo-night&hide_border=true"/>
