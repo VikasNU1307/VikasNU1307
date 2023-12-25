@@ -162,7 +162,7 @@
 
 [instagram]: https://instagram.com/Vikas_Umbadwar
 [linkedin]: https://www.linkedin.com/in/vikas-nagnath-umbadwar-85b251219
-[twitter]: https://twitter.com/RUPESH06678794
+[twitter]: https://twitter.com/
 [holopin]:https://holopin.io/@vikas_nu1307
 
 <a href="#" >
