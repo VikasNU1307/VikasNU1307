@@ -25,26 +25,24 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=VikasUmbadwar&label=Profile%20views&color=0e75b6&style=flat" alt="VikasUmbadwar" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VikasUmbadwar" alt="VikasUmbadwar" /></a> </p>
-
+<br>
+<br>
+<br>
   <hr/>
 
-<h2 align="center">Connect with me! 🤝 Let's build something amazing together. 🚀</h2>
 
-<p align="center">
-  <a href="https://linkedin.com/in/vikasumbadwar" target="_blank" rel="noreferrer" title="LinkedIn Fast Render">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vikas umbadwar" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/vikasumbadwar" target="_blank" rel="noreferrer" title="HackerRank Fast Render">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vikasumbadwar" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/vikas_umbadwar" target="_blank" rel="noreferrer" title="LeetCode Fast Render">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vikas_umbadwar" height="30" width="40" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/vikasumbadwar" target="_blank" rel="noreferrer" title="Geeks for Geeks Fast Render">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vikasumbadwar" height="30" width="40" />
-  </a>
-</p>
 
+<div align="center" > 
+  <h2 align="center">Connect with me! 🤝 Let's build something amazing together. 🚀</h2>
+<br>
+
+[<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
+[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
+[<img src ="https://img.shields.io/twitter/follow/RUPESH06678794?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="RUPESH06678794">][twitter]
+
+<br>
+</div > 
 
 <hr/>
 
@@ -149,8 +147,22 @@
 </div>
 
 
-[![An image of @vikas_nu1307's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikas_nu1307)][holopin]
 
+<div align="center"> 
+
+[![An image of @vikas_nu1307's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikas_nu1307)][holopin]
+ 
+###  Show some ❤️ by starring some of the repositories!
+</div>
+
+
+
+
+[github]: https://github.com/VikasUmbadwar
+
+[instagram]: https://instagram.com/Vikas_Umbadwar
+[linkedin]: https://www.linkedin.com/in/vikas-nagnath-umbadwar-85b251219
+[twitter]: https://twitter.com/RUPESH06678794
 [holopin]:https://holopin.io/@vikas_nu1307
 
 <a href="#" >
