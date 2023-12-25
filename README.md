@@ -136,7 +136,19 @@
 </p>
  
 
+<H3><b>Total Visitors</b></H3>
 
+![Visitor Badge](https://komarev.com/ghpvc/?username=Anonymous961&color=blueviolet&style=for-the-badge&label=Visitors+Here)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anonymous961&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" alt="anonymous961" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anonymous961&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="500px" /></p>
+
+<H3><b>My Contribution Status</b></H3>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=anonymous961&theme=algolia" alt="anonymous961" alt="anonymous961" /></p>
+<a href="#">
+<img alt="Anil's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Anonymous961&theme=tokyo-night&hide_border=true"/>
+</a>
 
 
 <div align="center">
