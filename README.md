@@ -139,11 +139,6 @@
 <br>
 <br>
 <br>
-<H3><b>My Contribution Status</b></H3>
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VikasUmbadwar&theme=algolia" alt="VikasUmbadwar" alt="VikasUmbadwar" /></p>
-<a href="#">
-<img alt="Vikas Umbadawar graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VikasUmbadwar&theme=tokyo-night&hide_border=true"/>
-</a>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
