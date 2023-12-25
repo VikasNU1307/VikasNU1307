@@ -1,19 +1,21 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vikas+Umbadwar!;" />
 </h1>
-<div align = "center">
-🔭 I’m currently working on **Smart Navigation With Crime Clustering and SOS Alert**
-  
-🌱 I’m currently learning **MERN Stack**
+<div align="center">
 
-🤝 I’m looking for help with **MERN Stack Project**
+🔭 **Currently working on:** Smart Navigation, Crime Clustering, and SOS Alert System.
 
-💬 Ask me about **Web Development**
+🌱 **Learning:** MERN Stack
 
- 📫 How to reach me **vikasumbadwar@gmail.com**
+🤝 **Seeking help with:** MERN Stack Project
 
-⚡ Fun fact **I am able to cook very Delicious Food 😅 and I am passionate about web dev and Problem solving**
-  </div>
+💬 **Ask me about:** Web Development
+
+📫 **Contact:** vikasumbadwar@gmail.com
+
+⚡ **Fun fact:** I enjoy cooking delicious food 😅 and have a passion for web development and problem-solving.
+
+</div>
   <hr/>
 
 
