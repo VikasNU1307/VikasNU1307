@@ -43,8 +43,8 @@
 
 <hr/>
 
-<div>
-<H3><b>Total Visitors</b></H3>
+<div align = "center>
+<h3>Total Visitors</h3>
 
 ![Visitor Badge](https://komarev.com/ghpvc/?username=VikasUmbadwar&color=blueviolet&style=for-the-badge&label=Visitors+Here)
 
