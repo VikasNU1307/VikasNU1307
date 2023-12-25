@@ -133,7 +133,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VikasUmbadwar&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" alt="VikasUmbadwar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VikasUmbadwar&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="500px" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VikasUmbadwar&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="450px" /></p>
 
 <H3><b>My Contribution Status</b></H3>
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VikasUmbadwar&theme=algolia" alt="VikasUmbadwar" alt="VikasUmbadwar" /></p>
