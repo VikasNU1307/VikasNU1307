@@ -25,7 +25,7 @@
 
 💬 **Ask me about:** Web Development
 
-📫 **Contact:** vikasnu1307@gmail.com
+📫 **Contact:** vikasumbadwar@gmail.com
 
 ⚡ **Fun fact:** I enjoy cooking delicious food 😅 and have a passion for web development and problem-solving.
 
