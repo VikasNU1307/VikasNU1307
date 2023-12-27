@@ -1,8 +1,7 @@
-
 ![Header](./github-header-image.png)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vikas+Umbadwar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vikas+NU1307!;" />
 </h1>
 <div align="center">
 
@@ -14,7 +13,7 @@
 
 💬 **Ask me about:** Web Development
 
-📫 **Contact:** vikasumbadwar@gmail.com
+📫 **Contact:** vikasnu1307@gmail.com
 
 ⚡ **Fun fact:** I enjoy cooking delicious food 😅 and have a passion for web development and problem-solving.
 
@@ -22,15 +21,12 @@
     
   <hr/>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VikasUmbadwar" alt="VikasUmbadwar" /></a> </p>
-
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VikasNU1307" alt="VikasNU1307" /></a> </p>
 
  <h2 align="center">Connect with me! 🤝 Let's build something amazing together. 🚀
   <hr/>
 <div align="center" > 
-
-    
+   
 [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
 [<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
@@ -135,22 +131,18 @@
 <div>
     <H3><b>Total Visitors</b></H3>
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=VikasUmbadwar&color=blueviolet&style=for-the-badge&label=Visitors+Here)
+![Visitor Badge](https://komarev.com/ghpvc/?username=VikasNU1307&color=blueviolet&style=for-the-badge&label=Visitors+Here)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VikasUmbadwar&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" alt="VikasUmbadwar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VikasNU1307&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" alt="VikasNU1307" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VikasUmbadwar&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="450px" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VikasNU1307&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="450px" /></p>
 
 </div>
-
-
 
 <div align = "center">
     <H3><b>My Contribution Status</b></H3>
-<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VikasUmbadwar&theme=algolia" alt="VikasUmbadwar" alt="VikasUmbadwar" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VikasNU1307&theme=algolia" alt="VikasNU1307" alt="VikasNU1307" /></p>
 </div>
-
-
 
 <div align="center"> 
 
@@ -159,35 +151,23 @@
 ###  Show some ❤️ by starring some of the repositories!
 </div>
 
+[github]: https://github.com/VikasNU1307
 
-
-
-[github]: https://github.com/VikasUmbadwar
-
-[instagram]: https://instagram.com/Vikas_Umbadwar
+[instagram]: https://instagram.com/VikasUmbadwar
 [linkedin]: https://www.linkedin.com/in/vikas-nagnath-umbadwar-85b251219
 [twitter]: https://twitter.com/
-[holopin]:https://holopin.io/@vikas_nu1307
+[holopin]:https://holopin.io/@vikasUmbadwar
 
 <a href="#" >
-<img alt="vikas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VikasUmbadwar&theme=tokyo-night&hide_border=true"/>
+<img alt="vikas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VikasNU1307&theme=tokyo-night&hide_border=true"/>
 </a>
-
-
-
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
     
-    
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/VikasUmbadwar/VikasUmbadwar/output/github-contribution-grid-snake-dark.svg" />
-<!-- ![Snake animation](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VikasUmbadwar&theme=dark&align=center&width=300)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VikasUmbadwar&show_icons=true&theme=dark) -->
-
-
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/VikasNU1307/VikasNU1307/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
 
-###
