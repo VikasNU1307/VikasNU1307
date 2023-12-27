@@ -148,7 +148,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VikasNU1307&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" alt="VikasNU1307" /></p>
 
 
-<p align = "center"> 📊 Leetcode Stats</p>
+
 
 ![CompetitiveLin's Leetcode Stats](https://leetcard.jacoblin.cool/vikas_umbadwar?theme=unicorn&font=Bellota%20Text)
 </div>
