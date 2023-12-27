@@ -1,5 +1,9 @@
-![Header](./VikasNU1307.png)
-<!--![Header](./github-header-image.png) -->
+
+
+
+<a href=""><img src="https://firebasestorage.googleapis.com/v0/b/saferoute-407318.appspot.com/o/VikasNU1307.png?alt=media&token=75218e12-9841-48b1-a221-5facba1961fe" width="100%" height="auto"/></a>
+<!--![Header](./github-header-image.png)
+    ![Header](./VikasNU1307.png]-->
 <hr/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vikas+NU1307!;" />
