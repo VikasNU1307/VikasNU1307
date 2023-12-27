@@ -146,18 +146,18 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=VikasNU1307&color=blueviolet&style=for-the-badge&label=Visitors+Here)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=VikasNU1307&show_icons=true&locale=en&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="192px" alt="VikasNU1307" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VikasNU1307&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="450px" /></p>
 
 
 
 
-![CompetitiveLin's Leetcode Stats](https://leetcard.jacoblin.cool/vikas_umbadwar?theme=unicorn&font=Bellota%20Text)
+
 </div>
 
 <div align = "center">
   
-<p><img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=VikasNU1307&theme=algolia" alt="VikasNU1307" alt="VikasNU1307" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=VikasNU1307&theme=algolia" alt="VikasNU1307" alt="VikasNU1307" /></p>
   
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VikasNU1307&show_icons=true&locale=en&hide=issues&count_private=true&theme=tokyonight&include_all_commits=true&hide_border=true" height="200px" width="450px" /></p>
 
 
   
@@ -183,7 +183,9 @@
 <img alt="vikas's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=VikasNU1307&theme=tokyo-night&hide_border=true"/>
 </a>
 
-
+<!--## 📊 Leetcode Stats
+![CompetitiveLin's Leetcode Stats](https://leetcard.jacoblin.cool/vikas_umbadwar?theme=unicorn&font=Bellota%20Text)
+-->
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
