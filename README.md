@@ -7,7 +7,7 @@
 <hr/>
 <h1 align="center">
     
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Code,+coffee,+bugs.;+Repeat+till+happy.;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🧑‍💻Code,+🍵coffee,+🐞bugs.;+Repeat+till+😍happy.;" />
 <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Programmer's+life:+debug,+coffee,+sleep,+repeat." />
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!😁;+Why+don't+programmers+like+nature?;" />
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=404+humor+not+found.+Keep+coding." />
