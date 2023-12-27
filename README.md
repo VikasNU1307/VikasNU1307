@@ -1,7 +1,7 @@
 
 
 
-<a href=""><img src="https://firebasestorage.googleapis.com/v0/b/saferoute-407318.appspot.com/o/VikasNU1307.png?alt=media&token=75218e12-9841-48b1-a221-5facba1961fe" width="100%" height="auto"/></a>
+<img src="https://firebasestorage.googleapis.com/v0/b/saferoute-407318.appspot.com/o/VikasNU1307.png?alt=media&token=75218e12-9841-48b1-a221-5facba1961fe" width="100%" height="auto"/>
 <!--![Header](./github-header-image.png)
     ![Header](./VikasNU1307.png]-->
 <hr/>
