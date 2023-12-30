@@ -167,9 +167,9 @@
 
 <div align="center"> 
 
-[![An image of @vikas_nu1307's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikas_nu1307)][holopin]
- 
-###  Show some ❤️ by starring some of the repositories!
+<!--[![An image of @vikas_nu1307's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vikas_nu1307)][holopin]
+ -->
+
 </div>
 
 [github]: https://github.com/VikasNU1307
