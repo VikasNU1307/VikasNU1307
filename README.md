@@ -1,7 +1,7 @@
 
 
 
-<img src="https://firebasestorage.googleapis.com/v0/b/saferoute-407318.appspot.com/o/VikasNU1307.png?alt=media&token=75218e12-9841-48b1-a221-5facba1961fe" width="100%" height="auto"/>
+<img src="https://firebasestorage.googleapis.com/v0/b/saferoute-407318.appspot.com/o/VikasNU1307.webp?alt=media&token=c99f1ff2-f0ee-45b4-b355-d218061c4ef6" width="100%" height="auto"/>
 <!--![Header](./github-header-image.png)
     ![Header](./VikasNU1307.png]-->
 <hr/>
@@ -190,7 +190,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
     
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/VikasNU1307/VikasNU1307/output/github-contribution-grid-snake-dark.svg" />
+<img alt="snake eating my contributions" src="https://firebasestorage.googleapis.com/v0/b/saferoute-407318.appspot.com/o/github-contribution-grid-snake-dark.svg?alt=media&token=8d9cabef-1014-451b-b30c-3428cffc4911" />
   
   <br/><br/><br/>
 </div>
