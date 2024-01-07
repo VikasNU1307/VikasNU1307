@@ -39,10 +39,36 @@
   <hr/>
 <div align="center" > 
    
-[<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />][github]
-[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">][instagram]
-[<img src ="https://img.shields.io/twitter/follow/RUPESH06678794?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="RUPESH06678794">][twitter]
+
+  <a href="https://www.instagram.com/vikas_umbadwar/">
+  <img style="width: 150px; height:150px;" src="https://firebasestorage.googleapis.com/v0/b/saferoute-407318.appspot.com/o/instagram.jpeg?alt=media&token=c82a538d-8efd-4ab5-ba82-f3b0290f1ec6" alt="Instagram">
+</a>
+
+<a href="https://leetcode.com/vikas_umbadwar/">
+  <img style="width: 150px; height:150px;" src="https://firebasestorage.googleapis.com/v0/b/saferoute-407318.appspot.com/o/leetcode.jpeg?alt=media&token=1ee65836-599b-4d93-a057-2aac0e6c5276" alt="LeetCode">
+</a>
+
+<a href="https://github.com/VikasNU1307">
+  <img style="width: 150px; height:150px;" src="https://firebasestorage.googleapis.com/v0/b/saferoute-407318.appspot.com/o/github.jpeg?alt=media&token=0d80c96e-cd2c-43f7-adb1-98d6670a0bc8" alt="GitHub">
+</a>
+
+<a href="https://www.hackerrank.com/vikasumbadwar?hr_r=1">
+  <img style="width: 150px; height:150px;" src="https://firebasestorage.googleapis.com/v0/b/saferoute-407318.appspot.com/o/Hackerrank.jpeg?alt=media&token=6a972dcf-1fe9-419e-985a-1214710f7211" alt="HackerRank">
+</a>
+
+<a href="https://www.linkedin.com/in/vikas-nagnath-umbadwar-85b251219">
+  <img style="width: 150px; height:150px;" src="https://firebasestorage.googleapis.com/v0/b/saferoute-407318.appspot.com/o/LinkedIn.jpeg?alt=media&token=d4f1da0d-59d8-4f2f-9f3a-7d6dedbe91d1" alt="LinkedIn">
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/vikasumbadwar/">
+  <img style="width: 150px; height:150px;" src="https://firebasestorage.googleapis.com/v0/b/saferoute-407318.appspot.com/o/gfg.jpeg?alt=media&token=5cad83b3-30b0-4f8b-ad3a-495761298b7f" alt="GeeksforGeeks">
+</a>
+
+<a href="https://twitter.com/Vikas_Umbadwar">
+  <img style="width: 150px; height:150px;" src="https://firebasestorage.googleapis.com/v0/b/saferoute-407318.appspot.com/o/twitter.jpeg?alt=media&token=2fe3771a-5c96-4def-8b36-95814b0517f8" alt="Twitter">
+</a>
+  
+  
 
 <br>
 </div > 
